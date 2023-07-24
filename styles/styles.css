@@ -125,3 +125,19 @@ input[type="button"] {
     font-weight: 700;
     line-height: normal;
 }
+
+
+.sec-2 {
+    margin-top: 100px;
+}
+
+.sec-2 h2{
+    width: 548px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 53px;
+    margin-bottom: 100px;
+}
